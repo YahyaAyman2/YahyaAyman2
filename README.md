@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yahya Ayman</h1>
 <h3 align="center">A passionate Full Stack .Net Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YahyaAyman2&label=Profile%20views&color=0e75b6&style=flat" alt="YahyaAyman2" /> </p>
 
 - 📫 How to reach me **yahyaayman238@gmail.com**
 
